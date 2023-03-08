@@ -1,6 +1,6 @@
 /*
  * Moisture Sensor
- * S ------ A1
+ * S ------ A0
  * VCC ---- 5V
  * GND ---- GND
  * 
