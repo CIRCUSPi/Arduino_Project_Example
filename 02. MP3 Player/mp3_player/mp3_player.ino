@@ -4,8 +4,8 @@
  * paus -- D6
  * next -- D5
  * VCC --- 5V
- * RX  --- D10
- * TX  --- D11
+ * RX  --- D11
+ * TX  --- D10
  * GND --- GND
  */
 
@@ -13,7 +13,7 @@
 #include "SoftwareSerial.h"
 #include "DFRobotDFPlayerMini.h"
 
-SoftwareSerial mySoftwareSerial(11, 10); // RX, TX
+SoftwareSerial mySoftwareSerial(10, 11); // RX, TX
 DFRobotDFPlayerMini myDFPlayer;
 
 int vol;
