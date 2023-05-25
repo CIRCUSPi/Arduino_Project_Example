@@ -5,7 +5,7 @@
  * GND ---- GND
  * 
  * Relay
- * IN ----- 15(A2)
+ * IN ----- 15(A1)
  * GND ---- GND
  * VCC ---- 5V
  */
